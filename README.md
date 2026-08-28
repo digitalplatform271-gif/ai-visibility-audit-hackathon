@@ -32,6 +32,27 @@ https://youtube.com/shorts/OvVoiGtlHwE?si=EXwnYZhlCmfFxWWF
 
 Submitted for the **BITSoM Vertex Builders Pitch Fest 2026**, Open AI Innovation challenge.
 
+## Run locally
+
+```bash
+npm install
+npm run dev
+```
+
+For a production build:
+
+```bash
+npm run build
+npm run preview
+```
+
+## Source structure
+
+- `src/App.jsx` — standalone analyzer interface
+- `src/lib/aiBrandVisibilityPrototype.js` — deterministic demo scoring and recommendation logic
+- `src/index.css` — Tailwind entry styles
+- `vite.config.js` — Vite + React configuration
+
 ## How the prototype works
 
 The current hackathon prototype uses a deterministic scoring approach to provide a repeatable diagnostic across the five AI visibility layers. It surfaces:
@@ -42,7 +63,9 @@ The current hackathon prototype uses a deterministic scoring approach to provide
 - quick wins
 - prioritized remediation actions
 
-The prototype is intended as a judge-friendly demonstration of the product workflow. The roadmap extends this into live AI monitoring, evidence capture, citation tracking and ongoing recommendation-readiness measurement.
+The prototype is intentionally transparent: it does **not** crawl the submitted website or query external AI platforms. Scores are simulated to demonstrate the product workflow and five-layer decision model.
+
+The roadmap extends this into live AI monitoring, evidence capture, citation tracking and ongoing recommendation-readiness measurement.
 
 ## Product direction
 
