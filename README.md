@@ -1,8 +1,10 @@
-# AI Visibility Audit Hackathon
+# AI Brand Visibility Analyzer
 
-Public hackathon repository for **Digital Platform 271's AI Brand Visibility Analyzer**.
+**A free AI visibility diagnostic prototype by Digital Platform 271**
 
-The prototype helps a user enter a brand website/domain and receive an AI visibility assessment across five layers:
+The **AI Brand Visibility Analyzer** helps brands understand whether their website provides enough signals for AI systems to discover, understand, evaluate, cite and potentially recommend the brand.
+
+It evaluates five layers of AI visibility:
 
 1. AI Presence
 2. AI Understanding
@@ -16,6 +18,19 @@ It is designed to answer three practical questions:
 - Why does that weakness matter?
 - What should be fixed first?
 
+## Who it is for
+
+- D2C and ecommerce brands
+- Founders and marketing teams
+- SEO and GEO professionals
+- Businesses evaluating their readiness for AI-driven search and recommendations
+
+## Why this exists
+
+Traditional SEO can help a brand become discoverable, but AI recommendation systems also need clear evidence, authority, context and decision-useful information.
+
+The AI Brand Visibility Analyzer was created to demonstrate how these different layers can be evaluated separately, so brands can move beyond simple discoverability and understand what may be limiting citation and recommendation readiness.
+
 ## Live prototype
 
 **AI Brand Visibility Analyzer**  
@@ -23,6 +38,13 @@ https://www.digitalplatform271.com/ai-brand-visibility-analyzer
 
 **AI Visibility Audit**  
 https://www.digitalplatform271.com/audit
+
+## Related research
+
+The framework is informed by **Digital Platform 271's AI Visibility Benchmark 2026**, which evaluated 30 Indian D2C brands across 53 website signals and five AI visibility dimensions.
+
+Research:  
+https://www.digitalplatform271.com/research
 
 ## Demo video
 
@@ -75,6 +97,12 @@ Digital Platform 271 is building an AI visibility workflow that moves from:
 
 The goal is to help brands understand not only whether AI systems can find them, but whether those systems have enough evidence and confidence to recommend them.
 
+## Citation
+
+If you reference the Analyzer, framework or related research in an article, presentation or research project, please cite:
+
+**Sarkar, S. (2026). AI Brand Visibility Analyzer. Digital Platform 271.**
+
 ## Safety and repository scope
 
 This public repository is intentionally isolated from production systems. It does not contain:
@@ -89,7 +117,7 @@ This public repository is intentionally isolated from production systems. It doe
 ## Built by
 
 **Sanchari Sarkar**  
-Digital Platform 271  
+Founder, Digital Platform 271  
 https://www.digitalplatform271.com
 
 ---
