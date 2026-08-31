@@ -39,6 +39,11 @@ https://www.digitalplatform271.com/ai-brand-visibility-analyzer
 **AI Visibility Audit**  
 https://www.digitalplatform271.com/audit
 
+## Documentation
+
+- [Methodology](docs/methodology.md) — explains the five-layer framework, prototype logic, limitations and research connection.
+- [Citation metadata](CITATION.cff) — standardized citation information for the project.
+
 ## Related research
 
 The framework is informed by **Digital Platform 271's AI Visibility Benchmark 2026**, which evaluated 30 Indian D2C brands across 53 website signals and five AI visibility dimensions.
