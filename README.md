@@ -2,6 +2,10 @@
 
 **A free AI visibility diagnostic prototype by Digital Platform 271**
 
+[![AI Brand Visibility Analyzer demo](https://img.youtube.com/vi/OvVoiGtlHwE/maxresdefault.jpg)](https://youtube.com/shorts/OvVoiGtlHwE?si=EXwnYZhlCmfFxWWF)
+
+*Click the preview above to watch the short product demo.*
+
 The **AI Brand Visibility Analyzer** helps brands understand whether their website provides enough signals for AI systems to discover, understand, evaluate, cite and potentially recommend the brand.
 
 It evaluates five layers of AI visibility:
