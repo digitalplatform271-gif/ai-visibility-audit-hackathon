@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use or reference the AI Brand Visibility Analyzer, please cite it using the metadata in this file."
+title: "AI Brand Visibility Analyzer"
+type: software
+authors:
+  - family-names: "Sarkar"
+    given-names: "Sanchari"
+abstract: "AI Brand Visibility Analyzer is a public prototype by Digital Platform 271 for assessing AI Presence, AI Understanding, AI Authority, Citation Authority, and Recommendation Readiness."
+repository-code: "https://github.com/digitalplatform271-gif/ai-visibility-audit-hackathon"
+url: "https://www.digitalplatform271.com/ai-brand-visibility-analyzer"
+keywords:
+  - AI visibility
+  - Generative Engine Optimization
+  - GEO
+  - AI search
+  - Recommendation Readiness
+  - D2C
+  - digital marketing
